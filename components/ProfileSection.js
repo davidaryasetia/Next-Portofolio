@@ -4,7 +4,7 @@ import SectionTitle from "./SectionTitle";
 /* eslint-disable @next/next/no-img-element */
 export default function Profile() {
   return (
-    <section className="py-28">
+    <section className="py-28" id="profile">
       <div className="container mx-auto">
         <SectionTitle>Profile</SectionTitle>
         <SectionParagraph>Mengenal saya secara singkat</SectionParagraph>

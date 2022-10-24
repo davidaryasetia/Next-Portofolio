@@ -6,7 +6,7 @@ import SectionTitle from "./SectionTitle";
 
 export default function ContactSection() {
   return (
-    <section className="container mx-auto">
+    <section className="container mx-auto" id="contact">
       <div className="bg-primarygray flex rounded-lg">
         <div className="w-6/12 border-r border-primarygray-200 ">
           <div className="py-16 px-20">

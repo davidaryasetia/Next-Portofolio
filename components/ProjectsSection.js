@@ -6,7 +6,7 @@ import SectionTitle from "./SectionTitle";
 export default function ProjectsSection() {
   return (
     <>
-      <section className="py-28">
+      <section className="py-28" id="project">
         <div className="container mx-auto">
           <SectionTitle>Projects</SectionTitle>
           <SectionParagraph>Beberapa Project Saya</SectionParagraph>
