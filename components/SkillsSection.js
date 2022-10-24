@@ -3,10 +3,10 @@ import SectionParagraph from "./SectionParagraph";
 import SectionTitle from "./SectionTitle";
 import SkillCard from "./SkillCard";
 
-export default function SectionSkills() {
+export default function SkillsSection() {
   return (
     <>
-      <section className="py-28 bg-gray-100">
+      <section className="py-28 bg-primarygray">
         <div className="container mx-auto">
           <SectionTitle>Skills</SectionTitle>
           <SectionParagraph>Beberapa kemampuan saya</SectionParagraph>

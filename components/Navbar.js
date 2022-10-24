@@ -13,7 +13,9 @@ export default function Navbar() {
           <Nav />
         </div>
         <div className="w-3/12 text-right">
-          <Button variant="outline-yellow">Contact</Button>
+          <Button pill variant="outline-yellow">
+            Contact
+          </Button>
         </div>
       </div>
     </>
